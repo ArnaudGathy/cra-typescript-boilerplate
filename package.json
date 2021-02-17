@@ -1,7 +1,9 @@
 {
 	"name": "cra-typescript-boilerplate",
+	"author": "Arnaud Gathy",
 	"version": "0.1.0",
 	"private": true,
+	"license": "mit",
 	"dependencies": {
 		"@types/node": "^12.0.0",
 		"@types/react": "^17.0.0",

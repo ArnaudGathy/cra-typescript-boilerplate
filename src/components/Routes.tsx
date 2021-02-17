@@ -4,6 +4,6 @@ import { Home } from '../screens/Home'
 
 export const Routes = () => (
 	<Switch>
-		<Route exact path="/" component={Home} />
+		<Route path="/" component={Home} />
 	</Switch>
 )

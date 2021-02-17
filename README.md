@@ -3,7 +3,7 @@
 ## Description
 
 This is a boilerplate project created using CRA TypeScript template, it includes the most used
-packages on new projects.
+packages and config on my React TS projects.
 
 #### Dev tools
 
@@ -18,6 +18,10 @@ packages on new projects.
 - i18n
 - React-router
 - Styled-components
+
+#### Others
+
+- The roboto font
 
 ## Commands
 
