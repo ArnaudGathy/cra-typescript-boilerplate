@@ -1,0 +1,7 @@
+*
+!nginx
+!src
+!public
+!package.json
+!yarn.lock
+!tsconfig.json
