@@ -21,7 +21,8 @@ packages and config on my React TS projects.
 
 #### Others
 
-- The roboto font
+- CSS reset
+- Roboto font (regular, bold, italic)
 
 ## Commands
 
