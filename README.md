@@ -5,21 +5,21 @@
 This is a boilerplate project created using CRA TypeScript template, it includes packages that
 requires some sort of setup.
 
-### Dev tools
+#### Dev tools
 
 - Prettier
 - ESLint
 - Pre-commit hooks with Husky and Lint-staged
 - A simple Docker config
 
-### Packages with config
+#### Packages with config
 
 - i18n
 - Redux
 - Redux-Toolkit
 - Redux Persist
 
-### Other useful packages
+#### Other useful packages
 
 - Axios
 - React-router
@@ -27,15 +27,13 @@ requires some sort of setup.
 
 ## Commands
 
-This project uses yarn
-
-### Running
+This project uses Yarn
 
 - Install deps : `yarn`
 - Run project : `yarn start`
-
-### Docker
-
 - Build the project : `yarn build`
+
+#### Docker
+
 - Build the docker image : `yarn docker:build`
 - Start the docker image : `yarn docker:run`
