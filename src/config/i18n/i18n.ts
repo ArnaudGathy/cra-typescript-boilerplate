@@ -1,7 +1,7 @@
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
-import en from '../assets/translations/en.json'
-import fr from '../assets/translations/fr.json'
+import en from '../../assets/translations/en.json'
+import fr from '../../assets/translations/fr.json'
 
 const defaultLang = 'en'
 const fallbackLang = 'en'

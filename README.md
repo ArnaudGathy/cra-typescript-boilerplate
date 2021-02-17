@@ -2,8 +2,8 @@
 
 ## Description
 
-This is a boilerplate project created using CRA TypeScript template, it includes packages that
-requires some sort of setup.
+This is a boilerplate project created using CRA TypeScript template, it includes the most used
+packages on new projects.
 
 #### Dev tools
 
@@ -12,16 +12,10 @@ requires some sort of setup.
 - Pre-commit hooks with Husky and Lint-staged
 - A simple Docker config
 
-#### Packages with config
-
-- i18n
-- Redux
-- Redux-Toolkit
-- Redux Persist
-
-#### Other useful packages
+#### Packages
 
 - Axios
+- i18n
 - React-router
 - Styled-components
 
